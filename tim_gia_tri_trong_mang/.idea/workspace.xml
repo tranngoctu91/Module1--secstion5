@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f11910ca-6898-4257-a7a7-33f6e45b51f8" name="Default Changelist" comment="" />
+    <list default="true" id="b0aed775-0554-4fe7-aa66-331206a9ef4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../taovathaotacvoimang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim_gia_tri_trong_mang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taovathaotacvoimang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taovathaotacvoimang/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/taovathaotacvoimang.html">
+        <entry file="file://$PROJECT_DIR$/tim_gia_tri_trong_mang.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="320">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -37,7 +41,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/taovathaotacvoimang.html" />
+        <option value="$PROJECT_DIR$/tim_gia_tri_trong_mang.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/tim_gia_tri_trong_mang.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -53,23 +67,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="taovathaotacvoimang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taovathaotacvoimang" type="462c0819:PsiDirectoryNode" />
+              <item name="tim_gia_tri_trong_mang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tim_gia_tri_trong_mang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -92,29 +105,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f11910ca-6898-4257-a7a7-33f6e45b51f8" name="Default Changelist" comment="" />
-      <created>1561689113025</created>
+      <changelist id="b0aed775-0554-4fe7-aa66-331206a9ef4d" name="Default Changelist" comment="" />
+      <created>1561690902828</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561689113025</updated>
-      <workItem from="1561689114384" duration="1790000" />
+      <updated>1561690902828</updated>
+      <workItem from="1561690904090" duration="729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1790000" />
+    <option name="totallyTimeSpent" value="729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494382" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32933104" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -131,17 +144,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../section2/maytinh/maytinhnangcao.html">
+    <entry file="file://$PROJECT_DIR$/tim_gia_tri_trong_mang.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taovathaotacvoimang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="320">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>
