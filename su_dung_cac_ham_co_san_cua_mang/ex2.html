@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ex2</title>
+</head>
+<body>
+
+</body>
+<script>
+    let number = prompt("In put the number");
+    let string = number.toString();
+    let result = [string[0]];
+    for (let i = 0; i < number.length; i++) {
+        if ((string[i - 1] % 2 === 0) && (string[i] % 2 === 0)) {
+            result.push('-', string[i])
+        } else {
+            result.push(string[i]);
+        }
+    }
+    console.log(result.join(''));
+</script>
+</html>
