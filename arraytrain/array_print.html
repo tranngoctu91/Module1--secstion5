@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>array_print</title>
+</head>
+<body>
+
+</body>
+<script>
+
+    let arr = [
+        [1, 2, 3, 4],
+        [1, -2, 3, 5],
+        [3, 2, 9, -5]
+
+    ];
+    let html = "<br>";
+    for (let i = 0; i < arr.length; i++) {
+        for (let j = 0; j < arr[i].length; j++) {
+            document.write(arr[i][j] + "; ");
+
+        }
+        html += "<br>";
+    }
+</script>
+</html>

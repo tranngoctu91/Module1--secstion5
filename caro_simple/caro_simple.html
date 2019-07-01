@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>caro_simple</title>
+</head>
+<body>
+<h3>Caro Game Simple</h3>
+<p> id="carogame"</p>
+<input type="button" value="Change Value" onclick="changeValue()">
+</body>
+<script>
+    let turn = 1;
+    let arr = [];
+    for (let i = 0; i < 3; i++) {
+        arr[i] = [];
+        document.write("<br>");
+        for (let j = 0; j < 3; j++) {
+            arr[i][j] = '<button id="cell-'+i+'-'+j+'" onclick="show('+ i+','+j +')">a</button>';
+            document.write(arr[i][j]);
+
+        }
+
+    }
+    function show(i,j) {
+        let cell = document.getElementById("cell-"+i+"-"+j);
+        if(cell.innerHTML == "a") {
+            if (turn == 1) {
+                cell.innerHTML = "x";
+                turn = 2;
+            } else if (turn == 2) {
+                cell.innerHTML = "o";
+                turn = 1;
+            }
+        }
+    }
+</script>
+</html>
